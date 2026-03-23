@@ -88,7 +88,7 @@ Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estud
   <a href="https://www.hackerrank.com/profile/lucasgodoyjor" target="_blank" rel="noreferrer" alt="HackerRank">HackerRank</a>&nbsp; | &nbsp;
   <a href="http://www.instagram.com/desviante" target="_blank" rel="noreferrer">Instagram</a>&nbsp; | &nbsp;
   <a href="https://www.facebook.com/lucasGodoyCh/" target="_blank" rel="noreferrer">Facebook</a>&nbsp; | &nbsp;
-  <a href="https://www.github.com/lgjor" target="_blank" rel="noreferrer">GitHub</a>&nbsp; | &nbsp;
+  <a href="https://www.github.com/lucasgch" target="_blank" rel="noreferrer">GitHub</a>&nbsp; | &nbsp;
   <a href="https://www.youtube.com/@Lucas-rr2il" target="_blank" rel="noreferrer">YouTube</a>&nbsp; | &nbsp;
   <a href="https://audesviante.hashnode.dev/" target="_blank" rel="noreferrer">Hashnode blog</a>&nbsp; | &nbsp;
   <a href="https://t.co/G5jzD5vcBE" target="_blank" rel="noreferrer">Hyperskill: Site com exercícios para aprender programação passo a passo</a>&nbsp; | &nbsp;
