@@ -62,8 +62,8 @@ https://github.com/lgjor/portfoliodev
 
 ## 📘 Estudos e formações
 
-- Entendendo Algoritmos — Aditya Bhargava - https://github.com/lgjor/EntendendoAlgoritmos
-- Estrutura de Dados com Prof. Isidro - https://github.com/lgjor/Estrutura-de-dados
+- Entendendo Algoritmos — Aditya Bhargava - https://github.com/lucasgch/EntendendoAlgoritmos
+- Estrutura de Dados com Prof. Isidro - https://github.com/lucasgch/Estrutura-de-dados
 - Bootcamp Bradesco – Java Cloud Native (90h)
 - Formação Java Fundamentals (35h) — DIO
 - Frontend do Zero (75h) — DIO
@@ -108,26 +108,26 @@ Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estud
 ## Meus projetos
 
 <ul>
-  <li><a href="https://github.com/lgjor/portfoliodev" target="_blank">Portfolio Dev</a></li>
-  <li><a href="https://lgjor.github.io/devlinks/" target="_blank">Meus links pessoais</a></li>
-  <li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Board de Tarefas em Java, H2 e JavaFX</a></li>
-  <li><a href="https://github.com/lgjor/trie-form-autocomplete" target="_blank">Autocomplete em Javascript com estrutura de dados Trie</a></li>
+  <li><a href="https://github.com/lucasgch/portfoliodev" target="_blank">Portfolio Dev</a></li>
+  <li><a href="https://lucasgch.github.io/devlinks/" target="_blank">Meus links pessoais</a></li>
+  <li><a href="https://github.com/  <li><a href="https://github.com/lucasgch/portfoliodev" target="_blank">Portfolio Dev</a></li>/desafio-board-dio" target="_blank">Board de Tarefas em Java, H2 e JavaFX</a></li>
+  <li><a href="https://github.com/lucasgch/trie-form-autocomplete" target="_blank">Autocomplete em Javascript com estrutura de dados Trie</a></li>
   <li><a href="https://caminhosdalongevidade.com.br/" target="_blank">Tema Wordpress e site: Caminhos da Longevidade</a></li>  
-  <li><a href="https://github.com/lgjor/JavaProjects" target="_blank">5 Projetos práticos com Java: Dice roller simulator; Word guessing game; Password generator; File manager; Weather Forecast Application</a></li>   
-  <li><a href="https://github.com/lgjor/JavaFizzBuzzWithCucumber" target="_blank">FizzBuzz com Java, Maven e Cucumber</a></li>
-  <li><a href="https://github.com/lgjor/TicTacToe" target="_blank">Jogo da velha com 3 níveis de dificuldade</a></li>
-  <li><a href="https://github.com/lgjor/snake-game" target="_blank">Snake Game em JS, CSS e HTML</a></li>
-  <li><a href="https://github.com/lgjor/dndinitiativecalculator" target=_blank">Calculadora de Iniciativa D&D</a>
-  <li><a href="https://github.com/lgjor/detona-ralph" target=_blank">Mini game Detona Ralph - Html/Javascript/CSS</a></li>
-  <li><a href="https://github.com/lgjor/memory-game" target=_blank">Jogo da memória - Html/Javascript/CSS</a></li>
-  <li><a href="https://github.com/lgjor/js-yugioh-assets" target=_blank">Jogo Yu-Gi-Oh | Jo-ken-po Edition - Html/Javascript/CSS</a></li>
-  <li><a href="https://github.com/lgjor/Pokedex" target=_blank">Pokedex que busca dados da PokeApi em Javascript/HTML/CSS</a></li>
-  <li><a href="https://github.com/lgjor/piano" target=_blank">Simulador de piano em Javascript/HTML/CSS</a></li>
-  <li><a href="https://lgjor.github.io/patinsanimation" target="_blank">Landing page com animações em CSS</a></li>
-  <li><a href="https://github.com/lgjor/landingpage-trilhacss-dio" target="_blank">Landing page Trilha CSS DIO</a></li>
-  <li><a href="https://github.com/lgjor/LandingPageMundoInvertido" target="_blank">Landing page Mundo Invertido</a></li>
-  <li><a href="https://lgjor.github.io/travelgram" target="_blank">Travelgram</a></li>
-  <li><a href="https://lgjor.github.io/portaldenoticias/" target="_blank">Portal de notícias</a></li>
-  <li><a href="https://lgjor.github.io/formulariodematricula/" target="_blank">Formulário de Matrícula</a></li>
-  <li><a href="https://lgjor.github.io/recipepage/" target="_blank">Página de receitas</a></li>
+  <li><a href="https://github.com/lucasgch/JavaProjects" target="_blank">5 Projetos práticos com Java: Dice roller simulator; Word guessing game; Password generator; File manager; Weather Forecast Application</a></li>   
+  <li><a href="https://github.com/lucasgch/JavaFizzBuzzWithCucumber" target="_blank">FizzBuzz com Java, Maven e Cucumber</a></li>
+  <li><a href="https://github.com/lucasgch/TicTacToe" target="_blank">Jogo da velha com 3 níveis de dificuldade</a></li>
+  <li><a href="https://github.com/lucasgch/snake-game" target="_blank">Snake Game em JS, CSS e HTML</a></li>
+  <li><a href="https://github.com/lucasgch/dndinitiativecalculator" target=_blank">Calculadora de Iniciativa D&D</a>
+  <li><a href="https://github.com/lucasgch/detona-ralph" target=_blank">Mini game Detona Ralph - Html/Javascript/CSS</a></li>
+  <li><a href="https://github.com/lucasgch/memory-game" target=_blank">Jogo da memória - Html/Javascript/CSS</a></li>
+  <li><a href="https://github.com/lucasgch/js-yugioh-assets" target=_blank">Jogo Yu-Gi-Oh | Jo-ken-po Edition - Html/Javascript/CSS</a></li>
+  <li><a href="https://github.com/lucasgch/Pokedex" target=_blank">Pokedex que busca dados da PokeApi em Javascript/HTML/CSS</a></li>
+  <li><a href="https://github.com/lucasgch/piano" target=_blank">Simulador de piano em Javascript/HTML/CSS</a></li>
+  <li><a href="https://lucasgch.github.io/patinsanimation" target="_blank">Landing page com animações em CSS</a></li>
+  <li><a href="https://github.com/lucasgch/landingpage-trilhacss-dio" target="_blank">Landing page Trilha CSS DIO</a></li>
+  <li><a href="https://github.com/lucasgch/LandingPageMundoInvertido" target="_blank">Landing page Mundo Invertido</a></li>
+  <li><a href="https://lucasgch.github.io/travelgram" target="_blank">Travelgram</a></li>
+  <li><a href="https://lucasgch.github.io/portaldenoticias/" target="_blank">Portal de notícias</a></li>
+  <li><a href="https://lucasgch.github.io/formulariodematricula/" target="_blank">Formulário de Matrícula</a></li>
+  <li><a href="https://lucasgch.github.io/recipepage/" target="_blank">Página de receitas</a></li>
 </ul>
