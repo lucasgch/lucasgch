@@ -104,6 +104,7 @@ Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estud
 <a href="https://github.com/lucasgch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgch&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="https://github.com/lucasgch/">
+  teste
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgch" />
 </a>
 <a href="https://github.com/lucasgch/">
