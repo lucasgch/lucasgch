@@ -95,28 +95,18 @@ Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estud
   <a href="https://roadmap.sh/befriend?u=6709b231fb4be684db425622 target="_blank" rel="noreferrer">Roadmap.sh</a>&nbsp;
 </p>
 
-<h2 align="center"> Github Stats</h2>
+## Github Stats
 
 <p align="center">
   <a href="https://github.com/lucasgch">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgch&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Estatísticas Gerais" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgch&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
-  <a href="https://github.com/lucasgch">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgch&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img height="180em" src="./profile/stats.svg" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/lucasgch">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgch&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Linguagens mais usadas" />
-  </a>
-  <img height="180em" src="./profile/stats.svg" alt="Stats Local" />
-</p>
-
-<p align="center">
-  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages Local" />
-  <img height="180em" src="./profile/pin-readme-tools-github-readme-stats.svg" alt="Pinned Stats" />
-</p>
+  <img height="180em" src="./profile/top-langs.svg" />
+  </p>
 
 ---
 
