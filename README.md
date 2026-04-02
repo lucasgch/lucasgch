@@ -99,13 +99,9 @@ Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estud
 
 <p align="center">
   <a href="https://github.com/lucasgch">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgch&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgch&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  &nbsp; &nbsp; <img height="180em" src="./profile/stats.svg" />
 </p>
-<p align="center">
-  </a>
-  <img height="180em" src="./profile/stats.svg" />
-</p>
-
 <p align="center">
   <img height="180em" src="./profile/top-langs.svg" />
 </p>
