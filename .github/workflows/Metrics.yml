@@ -1,6 +1,7 @@
+name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Roda toda meia-noite
-  workflow_dispatch: # Permite rodar manualmente nas Actions
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -9,30 +10,28 @@ jobs:
         with:
           token: ${{ secrets.GH_STATS_TOKEN }}
           
-          # Configurações de Exibição
+          # Configurações de Identidade
+          user: lucasgch
+          template: classic
           base: header, activity, community, repositories, metadata
-          optimize: xml
-          hub_user: lucasgch
           
-          # 1. Aumentando o período do Calendário (ISO Calendar)
-          # Opções: half-year (6 meses) ou full-year (1 ano)
+          # 1. Calendário de 1 ano completo (Os quadradinhos que você queria)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year 
 
-          # 2. Adicionando Linguagens Mais Usadas (Top Languages)
+          # 2. Linguagens (Foco em Backend)
           plugin_languages: yes
-          plugin_languages_ignored: html, css # Se quiser focar no Backend (Java/JS)
+          plugin_languages_ignored: html, css, tex
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           
-          # 3. Adicionando Linhas de Código (Ótimo para devs Backend)
+          # 3. Linhas de código
           plugin_lines: yes
           
-          # 4. Hábitos de Codificação (Mostra os horários que você mais commita)
+          # 4. Hábitos de commit
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_days: 14
-          
-          # Estilo Visual (Escolha um tema: dark, gothic, midnight, etc)
+          plugin_habits_days: 14       
+          # Configurações Visuais Corrigidas
           config_timezone: America/Sao_Paulo
-          theme: dark
+          config_presets: dark # Em vez de 'theme', usamos presets ou templa
