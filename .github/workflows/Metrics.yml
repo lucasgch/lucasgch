@@ -28,10 +28,6 @@ jobs:
           # 3. Linhas de código
           plugin_lines: yes
           
-          # 4. Hábitos de commit
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_days: 14       
           # Configurações Visuais Corrigidas
           config_timezone: America/Sao_Paulo
           config_presets: dark # Em vez de 'theme', usamos presets ou templa
