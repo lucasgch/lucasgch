@@ -97,6 +97,8 @@ Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estud
 
 ## Github Stats
 
+![Metrics](https://raw.githubusercontent.com/lucasgch/lucasgch/main/github-metrics.svg)
+
 [![Calendário de Contribuições](https://github-readme-stats.vercel.app/api?username=lucasgch&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/lucasgch)
 
 <p align="center">
