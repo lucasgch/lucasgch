@@ -38,10 +38,10 @@ Desejo unir minha experiência em comunicação com a tecnologia para criar solu
 ## 📌 Principais Projetos (Backend / Java)
 
 - Board de Tarefas (Java + JavaFX + H2)
-https://github.com/lgjor/desafio-board-dio
+https://github.com/lucasgch/desafio-board-dio
 
 - Academia Digital (Java + Spring Boot no BackEnd e React no Front)
-https://github.com/lgjor/academia-digital
+https://github.com/lucasgch/academia-digital
 
 - Diversos exercícios e projetos em Java, estou sempre atualizando
 (Lista completa no meus repositórios)
@@ -49,7 +49,7 @@ https://github.com/lgjor/academia-digital
 ## 📂 Outros Projetos (JS / Frontend / Games)
 
 - Autocomplete com Trie — JS
-https://github.com/lgjor/trie-form-autocomplete
+https://github.com/lucasgch/trie-form-autocomplete
 
 - Jogos em JS e páginas web responsivas.
 (Lista completa no meus repositórios)
@@ -58,7 +58,7 @@ https://github.com/lgjor/trie-form-autocomplete
 https://caminhosdalongevidade.com.br/
 
 - Porfolio dev
-https://github.com/lgjor/portfoliodev
+https://github.com/lucasgch/portfoliodev
 
 ## 📘 Estudos e formações
 
@@ -113,7 +113,7 @@ Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estud
 <ul>
   <li><a href="https://github.com/lucasgch/portfoliodev" target="_blank">Portfolio Dev</a></li>
   <li><a href="https://lucasgch.github.io/devlinks/" target="_blank">Meus links pessoais</a></li>
-  <li><a href="https://github.com/  <li><a href="https://github.com/lucasgch/portfoliodev" target="_blank">Portfolio Dev</a></li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Board de Tarefas em Java, H2 e JavaFX</a></li>
+  <li><a href="https://github.com/  <li><a href="https://github.com/lucasgch/portfoliodev" target="_blank">Portfolio Dev</a></li><a href="https://github.com/lucasgch/desafio-board-dio" target="_blank">Board de Tarefas em Java, H2 e JavaFX</a></li>
   <li><a href="https://github.com/lucasgch/trie-form-autocomplete" target="_blank">Autocomplete em Javascript com estrutura de dados Trie</a></li>
   <li><a href="https://caminhosdalongevidade.com.br/" target="_blank">Tema Wordpress e site: Caminhos da Longevidade</a></li>  
   <li><a href="https://github.com/lucasgch/JavaProjects" target="_blank">5 Projetos práticos com Java: Dice roller simulator; Word guessing game; Password generator; File manager; Weather Forecast Application</a></li>   
