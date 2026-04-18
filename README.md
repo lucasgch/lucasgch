@@ -38,7 +38,7 @@ Desejo unir minha experiência em comunicação com a tecnologia para criar solu
 ## 📌 Principais Projetos (Backend / Java)
 
 - Board de Tarefas (Java + JavaFX + H2)
-[https://github.com/lucasgch/desafio-board-dio](https://github.com/lucasgch/simple-task-board-manager)
+[https://github.com/lucasgch/simple-task-board-manager](https://github.com/lucasgch/simple-task-board-manager)
 
 - Academia Digital (Java + Spring Boot no BackEnd e React no Front)
 https://github.com/lucasgch/academia-digital
