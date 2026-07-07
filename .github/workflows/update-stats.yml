@@ -1,0 +1,39 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # todo dia às 03:00 UTC
+  workflow_dispatch:       # permite rodar manualmente
+  push:
+    paths:
+      - ".github/workflows/update-stats.yml"
+
+jobs:
+  update-readme-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats card
+        uses: jstrieb/github-stats@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          exclude_repos: ""
+          exclude_langs: ""
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=lucasgch&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&hide_border=true
+          path: generated/streak.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated/*.svg
+          git commit -m "chore: update stats" || exit 0
+          git push
