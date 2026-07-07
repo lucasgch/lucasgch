@@ -110,6 +110,24 @@ Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estud
   <img src="https://github-profile-trophy.vercel.app/?username=lucasgch&theme=darkhub&no-frame=true&column=7&margin-w=8" />
 </p>
 
+<p align="center">
+  <img height="180em" src="./generated/overview.svg" />
+  <img height="180em" src="./generated/streak.svg" />
+</p>
+
+<p align="center">
+  <img height="180em" src="./generated/languages.svg" />
+</p>
+
+<p align="center">
+  <img height="180em" src="./generated/overview.svg" />
+  <img height="180em" src="./generated/streak.svg" />
+</p>
+
+<p align="center">
+  <img height="180em" src="./generated/languages.svg" />
+</p>
+
 ---
 
 ## Meus projetos
