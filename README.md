@@ -98,8 +98,16 @@ Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estud
 ## Github Stats
 
 <p align="center">
-  <a href="https://github.com/lucasgch">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgch&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgch&show_icons=true&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=lucasgch&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgch&layout=compact&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucasgch&theme=darkhub&no-frame=true&column=7&margin-w=8" />
 </p>
 
 ---
