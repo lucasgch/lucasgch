@@ -99,7 +99,7 @@ Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estud
 
 <p align="center">
   <img height="180em" src="./profile/stats.svg" />
-  <img height="180em" src="./profile/streak.svg" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=lucasgch&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
 <p align="center">
