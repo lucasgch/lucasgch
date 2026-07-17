@@ -1,19 +1,17 @@
 # Olá, sou Lucas de Godoy
 
-Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina.
+Desenvolvedor Full Stack, estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC).
 
-Jornalista, mestre e especialista em Comunicação pela Universidade Estadual de Londrina, com mais de 10 anos de experiência em assessoria de comunicação e projetos socio­culturais. Trabalhei com comunicação estratégica, conteúdo, audiovisual, mídias sociais e iniciativas de impacto social.
+Tenho experiência no desenvolvimento de aplicações com Java, Spring Boot, JavaScript, Python, SQL, APIs REST, Git, Gradle, Maven, desenvolvimento de testes com JUnit, Cucumber e Playwright.
 
-Atualmente, estou em transição para desenvolvimento Backend, com foco em Java, Spring Boot, JUnit e boas práticas de arquitetura. Já desenvolvi projetos com JavaScript, Node.js, HTML, CSS, WordPress e possuo conhecimento básico em Python.
+Sou Jornalista, Mestre em Comunicação e atuei por mais de 10 anos como Redator e Comunicador, principalmente, em Projetos Sociais e Culturais, aprimorando minhas capacidades de comunicação, análise, organização e colaboração.
 
-Desejo unir minha experiência em comunicação com a tecnologia para criar soluções eficientes, criativas e orientadas a resultados.
+Busco desenvolver soluções eficientes, criativas e orientadas a resultados.
 
 ## 🚀 O que estou estudando
 
-- Java
-- Estruturas de Dados e Algoritmos
-- Testes com JUnit
-- Gradle, modularização e JavaFX
+- Java, Orientação à objetos
+- Automação de testes E2E com Playwright e Maestro
 - Boas práticas de código (SOLID, Clean Code)
 - Spring Boot (REST, JPA, Security)
 - Projetos pessoais e PoCs para portfólio
