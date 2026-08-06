@@ -52,8 +52,9 @@ https://github.com/lucasgch/trie-form-autocomplete
 - Jogos em JS e páginas web responsivas.
 (Lista completa no meus repositórios)
 
-- Tema WordPress — Caminhos da Longevidade
-https://caminhosdalongevidade.com.br/
+- Temas WordPress
+[https://ecoh.art.br/](https://ecoh.art.br/)
+[https://caminhosdalongevidade.com.br/](https://caminhosdalongevidade.com.br/)
 
 - Porfolio dev
 https://github.com/lucasgch/portfoliodev
