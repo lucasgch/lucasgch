@@ -53,8 +53,8 @@ https://github.com/lucasgch/trie-form-autocomplete
 (Lista completa no meus repositórios)
 
 - Temas WordPress
-[https://ecoh.art.br/](https://ecoh.art.br/)
-[https://caminhosdalongevidade.com.br/](https://caminhosdalongevidade.com.br/)
+[https://ecoh.art.br/](https://ecoh.art.br)
+[https://caminhosdalongevidade.com.br/](https://caminhosdalongevidade.com.br)
 
 - Porfolio dev
 https://github.com/lucasgch/portfoliodev
