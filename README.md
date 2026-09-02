@@ -113,12 +113,14 @@ Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estud
   <li><a href="https://lucasgch.github.io/devlinks/" target="_blank">Meus links pessoais</a></li>
   <li><a href="https://github.com/lucasgch/desafio-board-dio" target="_blank">Board de Tarefas em Java, H2 e JavaFX</a></li>
   <li><a href="https://github.com/lucasgch/trie-form-autocomplete" target="_blank">Autocomplete em Javascript com estrutura de dados Trie</a></li>
-  <li><a href="https://caminhosdalongevidade.com.br/" target="_blank">Tema Wordpress e site: Caminhos da Longevidade</a></li>  
+  <li><a href="https://ecoh.art.br" target="_blank">Tema Wordpress: ECOH - Encontro de Contadores de Histórias de Londrina</a></li>  
+  <li><a href="https://caminhosdalongevidade.com.br/" target="_blank">Tema Wordpress e site: Caminhos da Longevidade</a></li>
+  <li><a href="https://lucasgch.github.io/rpgzine" target="_blank">Rpgzine: Blog estático criado com Java</a></li>
+  <li><a href="https://github.com/lucasgch/dndinitiativecalculator" target=_blank">Calculadora de Iniciativa D&D</a></li>
   <li><a href="https://github.com/lucasgch/JavaProjects" target="_blank">5 Projetos práticos com Java: Dice roller simulator; Word guessing game; Password generator; File manager; Weather Forecast Application</a></li>   
   <li><a href="https://github.com/lucasgch/JavaFizzBuzzWithCucumber" target="_blank">FizzBuzz com Java, Maven e Cucumber</a></li>
   <li><a href="https://github.com/lucasgch/TicTacToe" target="_blank">Jogo da velha com 3 níveis de dificuldade</a></li>
   <li><a href="https://github.com/lucasgch/snake-game" target="_blank">Snake Game em JS, CSS e HTML</a></li>
-  <li><a href="https://github.com/lucasgch/dndinitiativecalculator" target=_blank">Calculadora de Iniciativa D&D</a></li>
   <li><a href="https://github.com/lucasgch/detona-ralph" target=_blank">Mini game Detona Ralph - Html/Javascript/CSS</a></li>
   <li><a href="https://github.com/lucasgch/memory-game" target=_blank">Jogo da memória - Html/Javascript/CSS</a></li>
   <li><a href="https://github.com/lucasgch/js-yugioh-assets" target=_blank">Jogo Yu-Gi-Oh | Jo-ken-po Edition - Html/Javascript/CSS</a></li>
