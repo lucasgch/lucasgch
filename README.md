@@ -41,6 +41,10 @@ Busco desenvolver soluções eficientes, criativas e orientadas a resultados.
 - Academia Digital (Java + Spring Boot no BackEnd e React no Front)
 https://github.com/lucasgch/academia-digital
 
+- Temas WordPress
+[https://ecoh.art.br](https://ecoh.art.br)
+[https://caminhosdalongevidade.com.br](https://caminhosdalongevidade.com.br)
+
 - Diversos exercícios e projetos em Java, estou sempre atualizando
 (Lista completa no meus repositórios)
 
@@ -51,10 +55,6 @@ https://github.com/lucasgch/trie-form-autocomplete
 
 - Jogos em JS e páginas web responsivas.
 (Lista completa no meus repositórios)
-
-- Temas WordPress
-[https://ecoh.art.br](https://ecoh.art.br)
-[https://caminhosdalongevidade.com.br](https://caminhosdalongevidade.com.br)
 
 - Porfolio dev
 https://github.com/lucasgch/portfoliodev
