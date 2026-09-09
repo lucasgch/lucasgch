@@ -93,7 +93,8 @@ Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estud
   <a href="https://t.co/G5jzD5vcBE" target="_blank" rel="noreferrer">Hyperskill: Site com exercícios para aprender programação passo a passo</a>&nbsp; | &nbsp;
   <a href="https://roadmap.sh/befriend?u=6709b231fb4be684db425622" target="_blank" rel="noreferrer">Roadmap.sh</a>&nbsp; | &nbsp;
   <a href="https://www.goodreads.com/user/show/193992192-lucas-a-desviante" target="_blank" rel="noreferrer">Goodreads</a>&nbsp; | &nbsp;
-  <a href="https://coddy.tech/user/lucasgch?via=share_profile" target="_blank" rel="noreferrer">Coddy</a>
+  <a href="https://coddy.tech/user/lucasgch?via=share_profile" target="_blank" rel="noreferrer">Coddy</a>&nbsp; | &nbsp;
+  <a href="https://judge.beecrowd.com/pt/profile/1263940" target="_blank" rel="noreferrer">Beecrowd</a>
 </p>
 
 ## Github Stats
